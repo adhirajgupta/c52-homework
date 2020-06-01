@@ -1,0 +1,138 @@
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   padding-top: 30px;
+   color:#87ceFa;
+   text-size-adjust: 40px;
+  }
+
+.flex-containere{
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding-bottom: 300px;
+}
+
+.flex-containerz{
+display: flex;
+flex-direction:row;
+justify-content: center;
+padding-bottom: 300px;
+}
+
+
+
+a:active{
+    color:red;
+
+}
+a:link{
+    color:yellow
+}
+
+a:hover{
+    color:peru
+}
+.item p{
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+
+}
+.item img{
+position: absolute;
+top: 60%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.item h3{
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+}
+
+.prop img{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    }
+    
+    .prop h3{
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+     
+.center img{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.left img{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    transform: translate(-50%,-50%);
+}
+
+.bottom img{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.larrow img {
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    transform: translate(-50%,-50%);
+}
+.rarrow img{
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    transform: translate(-50%,-50%);
+ 
+}
+.darrow img{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.tarrow img{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.link h2{
+    position: absolute;
+    top: 5%;
+    left: 95%;
+    transform: translate(-50%,-50%);
+}
+.flex-containerez{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
